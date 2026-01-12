@@ -11,7 +11,7 @@
     "prettier:write": "prettier --write 'src/**/*.sol'"
   },
   "dependencies": {
-    "@openzeppelin/contracts-upgradeable": "^5.1.0"
+    "@openzeppelin/contracts-upgradeable": "^5.4.0"
   },
   "devDependencies": {
     "@openzeppelin/contracts": "^5.0.2",
